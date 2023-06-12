@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CadastroApp
+//  curso SwiftUi
 //
 //  Created by lorraine cristina on 10/06/23.
 //
@@ -22,7 +22,5 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .preferredColorScheme(.light)
-            
     }
 }
