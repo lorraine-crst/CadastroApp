@@ -34,3 +34,12 @@ print(ContaCorrenteNicolas.saldo)
 ContaCorrenteNicolas.depositar(valor: 900)
 ContaCorrenteNicolas.sacar(valor: 300)
 print(ContaCorrenteNicolas.saldo)
+
+
+/*
+ Paradigma orientado a objetos
+
+ Baseia-se no conceito de classes e objetos;
+ Classes possuem atributos e métodos;
+ No Swift, você pode usar struct e classes.
+ **/

@@ -3,5 +3,8 @@
     <pages>
         <page name='Classes'/>
         <page name='Untitled Page'/>
+        <page name='diferenca class x struct'/>
+        <page name='simulador de calculadora'/>
+        <page name='triangulo'/>
     </pages>
 </playground>
