@@ -6,5 +6,8 @@
         <page name='diferenca class x struct'/>
         <page name='simulador de calculadora'/>
         <page name='triangulo'/>
+        <page name='herenca de classes'/>
+        <page name='super'/>
+        <page name='Override'/>
     </pages>
 </playground>
